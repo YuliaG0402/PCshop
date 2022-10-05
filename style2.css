@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+header {height: 100px;
+background-color: red;}
+
+header img { height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    padding-left: 10px;
+    padding-top: 10px;}
+
+nav a { border-radius: 10px; color: white; background-color:red; padding: 3px; text-decoration:none;}
+nav{margin-top: 5px;} 
+
+.zx{color: white; text-align: center;}
+
+html,body,main {background-color: black
+;}
+.xz {height:40px;
+width: 560px;
+background-color: red; text-align: center;
+padding-top: 5px;
+margin-left: 130px; color: white;}
+
+li {color:  white;}
+
+.cv, .vc, .vb{height:35px;
+ text-align: center;
+ color: white;
+padding-top: px;
+}
+
+footer {background-color: red;}
